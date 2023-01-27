@@ -1,0 +1,183 @@
+country_1,country_2,exports,exports rank,top product exported,imports,imports rank,top product imported,top product export,top product import
+Japan,United states, $112B,Rnk 2 / 213,Cars, $63.1B,Rnk 4 / 218,Petroleum Gas, $32.6B, $5.12B
+Japan,China, $133B,Rnk 1 / 213,Cars, $151B,Rnk 3 / 209,Computers, $8.69B, $12.1B
+Japan,Germany, $18.1B,Rnk 7 / 213,Cars, $19.7B,Rnk 19 / 220,Cars, $1.83B, $3.64B
+Japan,France, $5.52B,Rnk 22 / 213,Cars, $6.66B,Rnk 13 / 217,"Planes, Helicopters, and/or Spacecraft",$686M, $664M
+Japan,Italy, $4.01B,Rnk 26 / 213,Cars, $8.35B,Rnk 13 / 213,Processed Tobacco, $735M, $1.43B
+Japan,Canada, $8.14B,Rnk 18 / 213,Cars, $9.44B,Rnk 4 / 217,Pig Meat, $2.74B, $1.01B
+Japan,South Korea, $42.9B,Rnk 3 / 213,Photo Lab Equipment, $25.1B,Rnk 5 / 218,Refined Petroleum, $2.74B, $2.75B
+Japan,Russia, $5.63B,Rnk 21 / 213,Cars, $9.32B,Rnk 11 / 187,Petroleum Gas, $1.71B, $2.21B
+Japan,Brazil, $3.78B,Rnk 27 / 213,Motor vehicles; parts and accessories (8701 to 8705), $4.23B,Rnk 7 / 223,Iron Ore, $623M, $892M
+Japan,Australia, $12.2B,Rnk 10 / 213,Cars, $31.8B,Rnk 2 / 211,Petroleum Gas, $5.64B, $11B
+Japan,Spain, $2.51B,Rnk 30 / 213,Cars, $2.9B,Rnk 15 / 218,Pig Meat,$922M, $507M
+Japan,Indonesia, $9.24B,Rnk 16 / 213,Motor vehicles; parts and accessories (8701 to 8705), $14.4B,Rnk 3 / 213,Coal Briquettes, $14.4B, $1.85B
+Japan,India, $9.34B,Rnk 15 / 213,Refined Copper, $4.36B,Rnk 19 / 218,Refined Petroleum, $794M, $457M
+United states,Japan, $63.1B,Rnk 4 / 218,Cars, $112B,Rnk 2 / 213,Petroleum Gas, $5.12B, $32.6B
+United states,China, $122B,Rnk 3 / 218,Soybeans, $438B,Rnk 1 / 209,Computers, $13.9B, $48.9B
+United states,Germany, $59.2B,Rnk 5 / 218,Cars, $116B,Rnk 1 / 220,Cars, $6.46B, $15.1B
+United states,France, $23.6B,Rnk 14 / 218,Gas Turbines, $36.7B,Rnk 2 / 217,Packaged Medicaments, $2.15B, $4.04B
+United states,Italy, $18.2B,Rnk 18 / 218,Crude Petroleum, $47.9B,Rnk 3 / 213,Packaged Medicaments, $2.18B, $4.02B
+United states,Canada, $218B,Rnk 1 / 218,Cars, $264B,Rnk 1 / 217,Crude Petroleum, $10.6B, $45.4B
+United states,South Korea, $53.4B,Rnk 6 / 218,Cars, $75B,Rnk 2 / 218,Crude Petroleum, $4.88B, $16.1B
+United states,Russia, $5.68B,Rnk 35 / 218,Cars, $11.9B,Rnk 10 / 187,Refined Petroleum, $648M, $4.62B
+United states,Brazil, $29.3B,Rnk 9 / 218,Refined Petroleum, $21.9B,Rnk 2 / 223,Semi-Finished Iron, $5.94B, $1.54B
+United states,Australia, $24.2B,Rnk 13 / 218,Gold, $11.6B,Rnk 4 / 211,"Planes, Helicopters, and/or Spacecraft", $1.52B, $2.75B
+United states,Spain, $13.7B,Rnk 20 / 218,Packaged Medicaments, $14.3B,Rnk 6 / 218,Refined Petroleum, $1.87B, $744M
+United states,Indonesia, $7.59B,Rnk 30 / 218,Petroleum Gas, $19.6B,Rnk 2 / 213,Crustaceans, $887M, $1.01B
+United states,India, $26.6B,Rnk 11 / 218,Crude Petroleum, $49.7B,Rnk 1 / 218,Packaged Medicaments, $4.12B, $7.26B
+China,Japan, $151B,Rnk 3 / 209,Computers, $133B,Rnk 1 / 213,Cars, $12.1B, $8.69B
+China,United states, $438B,Rnk 1 / 209,Computers, $122B,Rnk 3 / 218,Soybeans, $48.9B, $13.9B
+China,Germany, $112B,Rnk 4 / 209,Cars, $106B,Rnk 2 / 220,Broadcasting Equipment, $12.6B, $16.7B
+China,France, $39.3B,Rnk 20 / 209,"Planes, Helicopters, and/or Spacecraft", $19.6B,Rnk 7 / 217,Other Cloth Articles, $4.68B, $1.83B
+China,Italy, $35.9B,Rnk 22 / 209,Other Cloth Articles, $14.9B,Rnk 8 / 213,Packaged Medicaments, $3.09B, $985M
+China,Canada, $49.5B,Rnk 17 / 209,Iron Ore, $19.3B,Rnk 2 / 217,Broadcasting Equipment, $5.53B, $2.09B
+China,South Korea, $110B,Rnk 5 / 209,Integrated Circuits, $131B,Rnk 1 / 218,Integrated Circuits, $16.3B, $37.5B
+China,Russia, $50.7B,Rnk 16 / 209,Crude Petroleum, $49.3B,Rnk 1 / 187,Broadcasting Equipment, $4.63B, $23.8B
+China,Brazil, $36.4B,Rnk 21 / 209,Telephones, $67.9B,Rnk 1 / 223,Soybeans, $1.39B, $20.9B
+China,Australia, $57.2B,Rnk 12 / 209,Computers, $102B,Rnk 1 / 211,Iron Ore, $4.35B, $63.9B
+China,Spain, $30.3B,Rnk 26 / 209,Pig Meat, $9.55B,Rnk 8 / 218,Other Cloth Articles, $1.93B, $2.9B
+China,Indonesia, $40.8B,Rnk 19 / 209,Telephones, $32.6B,Rnk 1 / 213,Ferroalloys, $1.95B, $4.55B
+China,India, $64.2B,Rnk 9 / 209,Computers, $18.5B,Rnk 2 / 218,Iron Ore, $3.92B, $3.43B
+Germany,Japan, $19.7B,Rnk 19 / 220,Cars, $18.1B,Rnk 7 / 213,Cars, $3.64B, $1.83B
+Germany,United states, $116B,Rnk 1 / 220,Cars, $59.2B,Rnk 5 / 218,Cars, $15.1B, $6.46B
+Germany,China, $106B,Rnk 2 / 220,Cars, $112B,Rnk 4 / 209,Broadcasting Equipment, $16.7B, $12.6B
+Germany,France, $101B,Rnk 3 / 220,Cars, $65.2B,Rnk 1 / 217,Cars, $8.26B, $4.72B
+Germany,Italy, $67.3B,Rnk 7 / 220,Motor vehicles; parts and accessories (8701 to 8705), $62.1B,Rnk 1 / 213,Cars, $6.92B, $2.97B
+Germany,Canada, $10.9B,Rnk 25 / 220,Cars, $4.7B,Rnk 6 / 217,Precious Metal Ore, $1.53B, $519M
+Germany,South Korea, $20B,Rnk 18 / 220,"Vaccines, blood, antisera, toxins and cultures", $10.6B,Rnk 11 / 218,Cars, $6.28B, $1.65B
+Germany,Russia, $26.1B,Rnk 14 / 220,Packaged Medicaments, $14.2B,Rnk 5 / 187,Crude Petroleum, $1.49B, $6.38B
+Germany,Brazil, $9.71B,Rnk 27 / 220,Motor vehicles; parts and accessories (8701 to 8705), $4.39B,Rnk 6 / 223,Coffee, $628M, $962M
+Germany,Australia, $9.67B,Rnk 29 / 220,"Vaccines, blood, antisera, toxins and cultures", $1.99B,Rnk 15 / 211,Cars, $1.48B, $446M
+Germany,Spain, $41.2B,Rnk 12 / 220,Cars, $34B,Rnk 2 / 218,Cars, $3.61B, $7.06B
+Germany,Indonesia, $2.54B,Rnk 50 / 220,Medical Instruments, $3.28B,Rnk 12 / 213,Leather Footwear, $86.3M, $219M
+Germany,India, $12.1B,Rnk 23 / 220,"Planes, Helicopters, and/or Spacecraft", $8.8B,Rnk 5 / 218,Gas Turbines, $2.45B, $392M
+France,Japan, $6.66B,Rnk 13 / 217,Cars, $5.52B,Rnk 22 / 213,"Planes, Helicopters, and/or Spacecraft", $664M, $686M
+France,United states, $36.7B,Rnk 2 / 217,Packaged Medicaments, $23.6B,Rnk 14 / 218,Gas Turbines, $4.04B, $2.15B
+France,China, $19.6B,Rnk 7 / 217,"Planes, Helicopters, and/or Spacecraft", $39.3B,Rnk 20 / 209,Other Cloth Articles, $1.83B, $4.68B
+France,Germany, $65.2B,Rnk 1 / 217,Cars, $101B,Rnk 3 / 220,Cars, $4.72B, $8.26B
+France,Italy, $36B,Rnk 3 / 217,Packaged Medicaments, $49.5B,Rnk 2 / 213,Packaged Medicaments, $3.24B, $2.4B
+France,Canada, $4.1B,Rnk 26 / 217,Iron Ore, $2.81B,Rnk 9 / 217,"Planes, Helicopters, and/or Spacecraft", $469M, $489M
+France,South Korea, $5.67B,Rnk 17 / 217,Cars, $3.32B,Rnk 27 / 218,"Planes, Helicopters, and/or Spacecraft",$656M, $982M
+France,Russia, $5.97B,Rnk 14 / 217,"Planes, Helicopters, and/or Spacecraft", $4.93B,Rnk 18 / 187,Refined Petroleum, $645M, $2.92B
+France,Brazil, $3.62B,Rnk 29 / 217,"Planes, Helicopters, and/or Spacecraft", $2.05B,Rnk 26 / 223,Soybean Meal, $385M, $545M
+France,Australia, $3.19B,Rnk 31 / 217,Packaged Medicaments, $1B,Rnk 22 / 211,Coal Briquettes, $303M, $291M
+France,Spain, $33.9B,Rnk 5 / 217,Motor vehicles; parts and accessories (8701 to 8705), $47.6B,Rnk 1 / 218,Cars, $1.84B, $7.39B
+France,Indonesia, $1.33B,Rnk 46 / 217,Palm Oil, $1.07B,Rnk 31 / 213,Gas Turbines, $177M, $111M
+France,India, $4.79B,Rnk 19 / 217,"Planes, Helicopters, and/or Spacecraft", $4.56B,Rnk 17 / 218,Refined Petroleum,$1.12B, $415M
+Italy,Japan, $8.35B,Rnk 13 / 213,Cars, $4.01B,Rnk 26 / 213,Processed Tobacco, $1.43B, $735M
+Italy,United states, $47.9B,Rnk 3 / 213,Packaged Medicaments, $18.2B,Rnk 18 / 218,Crude Petroleum, $4.02B, $2.18B
+Italy,China, $14.9B,Rnk 8 / 213,Packaged Medicaments, $35.9B,Rnk 22 / 209,Other Cloth Articles, $985M, $3.09B
+Italy,Germany, $62.1B,Rnk 1 / 213,Motor vehicles; parts and accessories (8701 to 8705), $67.3B,Rnk 7 / 220,Cars, $2.97B, $6.92B
+Italy,France, $49.5B,Rnk 2 / 213,Packaged Medicaments, $36B,Rnk 3 / 217,Packaged Medicaments, $2.4B, $3.24B
+Italy,Canada, $5.21B,Rnk 18 / 213,Wine, $2.55B,Rnk 11 / 217,Packaged Medicaments,$399M, $558M
+Italy,South Korea, $5.41B,Rnk 17 / 213,Cars, $3.44B,Rnk 26 / 218,Trunks and Cases,$726M, $467M
+Italy,Russia, $7.71B,Rnk 15 / 213,"Vaccines, blood, antisera, toxins and cultures", $11.9B,Rnk 9 / 187,Petroleum Gas, $275M, $4.08B
+Italy,Brazil, $4.16B,Rnk 25 / 213,Motor vehicles; parts and accessories (8701 to 8705), $3B,Rnk 15 / 223,Sulfate Chemical Woodpulp, $307M, $481M
+Italy,Australia, $4.28B,Rnk 24 / 213,Packaged Medicaments, $419M,Rnk 31 / 211,Coal Briquettes, $188M, $72.8M
+Italy,Spain, $22B,Rnk 6 / 213,Motor vehicles; parts and accessories (8701 to 8705), $22.8B,Rnk 4 / 218,Cars, $1B, $3.15B
+Italy,Indonesia, $1.23B,Rnk 54 / 213,Palm Oil, $2.11B,Rnk 18 / 213,Washing and Bottling Machines,$106M, $689M
+Italy,India, $3.51B,Rnk 30 / 213,Valves, $4.78B,Rnk 14 / 218,Hot-Rolled Iron, $106M, $240M
+Canada,Japan, $9.44B,Rnk 4 / 217,Pig Meat, $8.14B,Rnk 18 / 213,Cars, $1.01B, $2.74B
+Canada,United states, $264B,Rnk 1 / 217,Cars, $218B,Rnk 1 / 218,Crude Petroleum, $45.4B, $10.6B
+Canada,China, $19.3B,Rnk 2 / 217,Iron Ore, $49.5B,Rnk 17 / 209,Broadcasting Equipment, $2.09B, $5.53B
+Canada,Germany, $4.7B,Rnk 6 / 217,Cars, $10.9B,Rnk 25 / 220,Precious Metal Ore, $519M, $1.53B
+Canada,France, $2.81B,Rnk 9 / 217,Iron Ore, $4.1B,Rnk 26 / 217,"Planes, Helicopters, and/or Spacecraft", $489M, $469M
+Canada,Italy, $2.55B,Rnk 11 / 217,Wine, $5.21B,Rnk 18 / 213,Packaged Medicaments, $558M, $399M
+Canada,South Korea, $3.86B,Rnk 8 / 217,Cars, $6.49B,Rnk 16 / 218,Coal Briquettes, $837M, $2.75B
+Canada,Russia, $515M,Rnk 37 / 217,Platinum, $617M,Rnk 63 / 187,"Planes, Helicopters, and/or Spacecraft", $37.5M, $109M
+Canada,Brazil, $1.71B,Rnk 14 / 217,Gold, $4.39B,Rnk 5 / 223,Potassic Fertilizers, $732M, $1.89B
+Canada,Australia, $1.6B,Rnk 15 / 217,Wheat, $1.73B,Rnk 19 / 211,Radioactive Chemicals, $113M, $387M
+Canada,Spain, $1.04B,Rnk 23 / 217,Iron Ore, $2.17B,Rnk 25 / 218,Packaged Medicaments, $140M, $267M
+Canada,Indonesia, $1.39B,Rnk 18 / 217,Wheat, $1.13B,Rnk 29 / 213,Rubber, $519M, $130M
+Canada,India, $2.7B,Rnk 10 / 217,Dried Legumes, $3.26B,Rnk 29 / 218,Packaged Medicaments, $524M, $335M
+South Korea,Japan, $25.1B,Rnk 5 / 218,Refined Petroleum, $42.9B,Rnk 3 / 213,Photo Lab Equipment, $2.75B, $2.74B
+South Korea,United states, $75B,Rnk 2 / 218,Cars, $53.4B,Rnk 6 / 218,Crude Petroleum, $16.1B, $4.88B
+South Korea,China, $131B,Rnk 1 / 218,Integrated Circuits, $110B,Rnk 5 / 209,Integrated Circuits, $37.5B, $16.3B
+South Korea,Germany, $10.6B,Rnk 11 / 218,"Vaccines, blood, antisera, toxins and cultures", $20B,Rnk 18 / 220,Cars, $1.65B, $6.28B
+South Korea,France, $3.32B,Rnk 27 / 218,Cars, $5.67B,Rnk 17 / 217,"Planes, Helicopters, and/or Spacecraft", $982M, $656M
+South Korea,Italy, $3.44B,Rnk 26 / 218,Cars, $5.41B,Rnk 17 / 213,Trunks and Cases,$467M, $726M
+South Korea,Canada, $6.49B,Rnk 16 / 218,Cars, $3.86B,Rnk 8 / 217,Coal Briquettes, $2.75B, $837M
+South Korea,Russia, $7.93B,Rnk 12 / 218,Cars, $12.5B,Rnk 8 / 187,Crude Petroleum, $1.49B, $5.03B
+South Korea,Brazil, $4.59B,Rnk 23 / 218,Integrated Circuits, $3.82B,Rnk 11 / 223,Crude Petroleum, $877M, $600M
+South Korea,Australia, $6.38B,Rnk 17 / 218,Cars, $17.2B,Rnk 3 / 211,Iron Ore, $1.71B, $4.35B
+South Korea,Spain, $2.47B,Rnk 32 / 218,Cars, $1.86B,Rnk 29 / 218,Pig Meat,$676M, $200M
+South Korea,Indonesia, $6.52B,Rnk 15 / 218,Refined Petroleum, $7.21B,Rnk 7 / 213,Coal Briquettes, $332M, $1.16B
+South Korea,India, $12.1B,Rnk 7 / 218,Integrated Circuits, $4.63B,Rnk 15 / 218,Raw Aluminium, $1.02B, $903M
+Russia,Japan, $9.32B,Rnk 11 / 187,Cars, $5.63B,Rnk 21 / 213,Petroleum Gas,$2.21B, $1.71B
+Russia,United states, $11.9B,Rnk 10 / 187,Cars, $5.68B,Rnk 35 / 218,Refined Petroleum, $4.62B, $648M
+Russia,China, $49.3B,Rnk 1 / 187,Crude Petroleum, $50.7B,Rnk 16 / 209,Broadcasting Equipment, $23.8B, $4.63B
+Russia,Germany, $14.2B,Rnk 5 / 187,Crude Petroleum, $26.1B,Rnk 14 / 220,Packaged Medicaments, $6.38B, $1.49B
+Russia,France, $4.93B,Rnk 18 / 187,"Planes, Helicopters, and/or Spacecraft", $5.97B,Rnk 14 / 217,Refined Petroleum, $2.92B, $645M
+Russia,Italy, $11.9B,Rnk 9 / 187,"Vaccines, blood, antisera, toxins and cultures", $7.71B,Rnk 15 / 213,Petroleum Gas, $4.08B, $275M
+Russia,Canada, $617M,Rnk 63 / 187,Platinum, $515M,Rnk 37 / 217,"Planes, Helicopters, and/or Spacecraft", $109M, $37.5M
+Russia,South Korea, $12.5B,Rnk 8 / 187,Cars, $7.93B,Rnk 12 / 218,Crude Petroleum, $5.03B, $1.49B
+Russia,Brazil, $2.21B,Rnk 30 / 187,Soybeans, $1.57B,Rnk 32 / 223,Nitrogenous Fertilizers, $526M, $387M
+Russia,Australia, $157M,Rnk 89 / 187,Aluminium Oxide, $585M,Rnk 26 / 211,Nitrogenous Fertilizers, $27.6M, $420M
+Russia,Spain, $2.36B,Rnk 28 / 187,Refined Petroleum, $2.31B,Rnk 20 / 218,Non-Knit Women's Suits, $1.04B, $123M
+Russia,Indonesia, $671M,Rnk 59 / 187,Palm Oil, $1.24B,Rnk 24 / 213,Semi-Finished Iron, $143M, $485M
+Russia,India, $5.93B,Rnk 15 / 187,Coal Briquettes, $2.87B,Rnk 30 / 218,Packaged Medicaments, $923M, $444M
+Brazil,Japan, $4.23B,Rnk 7 / 223,Motor vehicles; parts and accessories (8701 to 8705), $3.78B,Rnk 27 / 213,Iron Ore, $892M, $623M
+Brazil,United states, $21.9B,Rnk 2 / 223,Semi-Finished Iron, $29.3B,Rnk 9 / 218,Refined Petroleum, $1.54B, $5.94B
+Brazil,China, $67.9B,Rnk 1 / 223,Soybeans, $36.4B,Rnk 21 / 209,Telephones, $20.9B, $1.39B
+Brazil,Germany, $4.39B,Rnk 6 / 223,Motor vehicles; parts and accessories (8701 to 8705), $9.71B,Rnk 27 / 220,Coffee,$962M, $628M
+Brazil,France, $2.05B,Rnk 26 / 223,"Planes, Helicopters, and/or Spacecraft", $3.62B,Rnk 29 / 217,Soybean Meal, $545M, $385M
+Brazil,Italy, $3B,Rnk 15 / 223,Motor vehicles; parts and accessories (8701 to 8705), $4.16B,Rnk 25 / 213,Sulfate Chemical Woodpulp, $481M, $307M
+Brazil,Canada, $4.39B,Rnk 5 / 223,Gold, $1.71B,Rnk 14 / 217,Potassic Fertilizers, $1.89B, $732M
+Brazil,South Korea, $3.82B,Rnk 11 / 223,Crude Petroleum, $4.59B,Rnk 23 / 218,Integrated Circuits, $600M, $877M
+Brazil,Russia, $1.57B,Rnk 32 / 223,Soybeans, $2.21B,Rnk 30 / 187,Nitrogenous Fertilizers, $387M, $526M
+Brazil,Australia, $499M,Rnk 51 / 223,Coal Briquettes, $551M,Rnk 28 / 211,Large Construction Vehicles,$337M, $337M
+Brazil,Spain, $4.09B,Rnk 8 / 223,Crude Petroleum, $2.63B,Rnk 18 / 218,Refined Petroleum, $1.03B, $336M
+Brazil,Indonesia, $2.43B,Rnk 19 / 223,Soybean Meal, $1.15B,Rnk 28 / 213,Coconut Oil, $795M, $155M
+Brazil,India, $3.01B,Rnk 14 / 223,Pesticides, $4.13B,Rnk 21 / 218,Crude Petroleum, $1.22B, $621M
+Australia,Japan, $31.8B,Rnk 2 / 211,Cars, $12.2B,Rnk 10 / 213,Petroleum Gas, $11B, $5.64B
+Australia,United states, $11.6B,Rnk 4 / 211,Gold, $24.2B,Rnk 13 / 218,"Planes, Helicopters, and/or Spacecraft", $2.75B, $1.52B
+Australia,China, $102B,Rnk 1 / 211,Iron Ore, $57.2B,Rnk 12 / 209,Computers, $63.9B, $4.35B
+Australia,Germany, $1.99B,Rnk 15 / 211,"Vaccines, blood, antisera, toxins and cultures", $9.67B,Rnk 29 / 220,Cars,$446M, $1.48B
+Australia,France, $1B,Rnk 22 / 211,Coal Briquettes, $3.19B,Rnk 31 / 217,Packaged Medicaments,$291M, $303M
+Australia,Italy, $419M,Rnk 31 / 211,Coal Briquettes, $4.28B,Rnk 24 / 213,Packaged Medicaments,$72.8M, $188M
+Australia,Canada, $1.73B,Rnk 19 / 211,Wheat, $1.6B,Rnk 15 / 217,Radioactive Chemicals, $387M, $113M
+Australia,South Korea, $17.2B,Rnk 3 / 211,Iron Ore, $6.38B,Rnk 17 / 218,Cars, $4.35B, $1.71B
+Australia,Russia, $585M,Rnk 26 / 211,Aluminium Oxide, $157M,Rnk 89 / 187,Nitrogenous Fertilizers,$420M, $27.6M
+Australia,Brazil, $551M,Rnk 28 / 211,Coal Briquettes, $499M,Rnk 51 / 223,Large Construction Vehicles, $337M, $99.7M
+Australia,Spain, $414M,Rnk 32 / 211,Zinc Ore, $1.73B,Rnk 31 / 218,Other Sea Vessels,$71M, $276M
+Australia,Indonesia, $3.88B,Rnk 13 / 211,Gold, $3.06B,Rnk 14 / 213,Coal Briquettes, $469M, $371M
+Australia,India, $11.3B,Rnk 5 / 211,Coal Briquettes, $3.74B,Rnk 23 / 218,Refined Petroleum, $9.12B, $913M
+Spain,Japan, $2.9B,Rnk 15 / 218,Pig Meat, $2.51B,Rnk 30 / 213,Cars, $507M, $922M
+Spain,United states, $14.3B,Rnk 6 / 218,Refined Petroleum, $13.7B,Rnk 20 / 218,Packaged Medicaments, $744M, $1.87B
+Spain,China, $9.55B,Rnk 8 / 218,Pig Meat, $30.3B,Rnk 26 / 209,Other Cloth Articles,$2.9B, $1.93B
+Spain,Germany, $34B,Rnk 2 / 218,Cars, $41.2B,Rnk 12 / 220,Cars, $7.06B, $3.61B
+Spain,France, $47.6B,Rnk 1 / 218,Motor vehicles; parts and accessories (8701 to 8705), $33.9B,Rnk 5 / 217,Cars, $7.39B, $1.84B
+Spain,Italy, $22.8B,Rnk 4 / 218,Motor vehicles; parts and accessories (8701 to 8705), $22B,Rnk 6 / 213,Cars, $3.15B, $1B
+Spain,Canada, $2.17B,Rnk 25 / 218,Iron Ore, $1.04B,Rnk 23 / 217,Packaged Medicaments,$267M, $140M
+Spain,South Korea, $1.86B,Rnk 29 / 218,Pig Meat, $2.47B,Rnk 32 / 218,Cars, $200M, $676M
+Spain,Russia, $2.31B,Rnk 20 / 218,Refined Petroleum, $2.36B,Rnk 28 / 187,Non-Knit Women's Suits,$123M, $1.04B
+Spain,Brazil, $2.63B,Rnk 18 / 218,Refined Petroleum, $4.09B,Rnk 8 / 223,Crude Petroleum, $336M, $1.03B
+Spain,Australia, $1.73B,Rnk 31 / 218,Zinc Ore, $414M,Rnk 32 / 211,Other Sea Vessels, $276M, $71M
+Spain,Indonesia, $435M,Rnk 62 / 218,Palm Oil, $1.82B,Rnk 19 / 213,Prepared Pigments, $22.4M, $854M
+Spain,India, $1.4B,Rnk 37 / 218,Nitrogen Heterocyclic Compounds, $3.32B,Rnk 28 / 218,Special Purpose Ships, $112M, $148M
+Indonesia,Japan, $14.4B,Rnk 3 / 213,Motor vehicles; parts and accessories (8701 to 8705), $9.24B,Rnk 16 / 213,Coal Briquettes, $1.85B, $763M
+Indonesia,United states, $19.6B,Rnk 2 / 213,Crustaceans, $7.59B,Rnk 30 / 218,Petroleum Gas, $1.01B, $887M
+Indonesia,China, $32.6B,Rnk 1 / 213,Telephones, $40.8B,Rnk 19 / 209,Ferroalloys, $4.55B, $1.95B
+Indonesia,Germany, $3.28B,Rnk 12 / 213,Leather Footwear, $2.54B,Rnk 50 / 220,Medical Instruments, $219M, $86.3M
+Indonesia,France, $1.07B,Rnk 31 / 213,Palm Oil, $1.33B,Rnk 46 / 217,Gas Turbines,$111M, $177M
+Indonesia,Italy, $2.11B,Rnk 18 / 213,Palm Oil, $1.23B,Rnk 54 / 213,Washing and Bottling Machines,$689M, $106M
+Indonesia,Canada, $1.13B,Rnk 29 / 213,Rubber, $1.39B,Rnk 18 / 217,Wheat, $130M, $519M
+Indonesia,South Korea, $7.21B,Rnk 7 / 213,Coal Briquettes, $6.52B,Rnk 15 / 218,Refined Petroleum, $1.16B, $332M
+Indonesia,Russia, $1.24B,Rnk 24 / 213,Palm Oil, $671M,Rnk 59 / 187,Semi-Finished Iron, $485M, $143M
+Indonesia,Brazil, $1.15B,Rnk 28 / 213,Coconut Oil, $2.43B,Rnk 19 / 223,Soybean Meal, $155M, $795M
+Indonesia,Australia, $3.06B,Rnk 14 / 213,Gold, $3.88B,Rnk 13 / 211,Coal Briquettes, $371M, $469M
+Indonesia,Spain, $1.82B,Rnk 19 / 213,Palm Oil, $435M,Rnk 62 / 218,Prepared Pigments,$854M, $22.4M
+Indonesia,India, $11B,Rnk 5 / 213,Coal Briquettes, $4.55B,Rnk 18 / 218,Special Purpose Ships, $3.8B, $772M
+India,Japan, $4.36B,Rnk 19 / 218,Refined Petroleum, $9.34B,Rnk 15 / 213,Refined Copper, $457M, $794M
+India,United states, $49.7B,Rnk 1 / 218,Packaged Medicaments, $26.6B,Rnk 11 / 218,Crude Petroleum, $7.26B, $4.12B
+India,China, $18.5B,Rnk 2 / 218,Iron Ore, $64.2B,Rnk 9 / 209,Computers, $3.43B, $3.92B
+India,Germany, $8.8B,Rnk 5 / 218,"Planes, Helicopters, and/or Spacecraft", $12.1B,Rnk 23 / 220,Gas Turbines, $392M, $2.45B
+India,France, $4.56B,Rnk 17 / 218,"Planes, Helicopters, and/or Spacecraft", $4.79B,Rnk 19 / 217,Refined Petroleum, $415M, $1.12B
+India,Italy, $4.78B,Rnk 14 / 218,Valves, $3.51B,Rnk 30 / 213,Hot-Rolled Iron, $240M, $106M
+India,Canada, $3.26B,Rnk 29 / 218,Packaged Medicaments, $2.7B,Rnk 10 / 217,Dried Legumes, $335M, $524M
+India,South Korea, $4.63B,Rnk 15 / 218,Raw Aluminium, $12.1B,Rnk 7 / 218,Integrated Circuits, $903M, $1.02B
+India,Russia, $2.87B,Rnk 30 / 218,Packaged Medicaments, $5.93B,Rnk 15 / 187,Coal Briquettes, $444M, $923M
+India,Brazil, $4.13B,Rnk 21 / 218,Pesticides, $3.01B,Rnk 14 / 223,Crude Petroleum, $621M, $1.22B
+India,Australia, $3.74B,Rnk 23 / 218,Refined Petroleum, $11.3B,Rnk 5 / 211,Coal Briquettes, $913M, $9.12B
+India,Spain, $3.32B,Rnk 28 / 218,Nitrogen Heterocyclic Compounds, $1.4B,Rnk 37 / 218,Special Purpose Ships, $148M, $112M
+India,Indonesia, $4.55B,Rnk 18 / 218,Coal Briquettes, $11B,Rnk 5 / 213,Special Purpose Ships, $772M, $3.8B
